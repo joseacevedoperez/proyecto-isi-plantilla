@@ -74,7 +74,6 @@ para ajustar mejor las recetas a mis preferencias y encontrar alternativas adecu
              FR-086: Búsqueda mediante ingredientes seleccionados.
              FR-087: Exclusión de ingredientes.
              FR-095: Combinación de múltiples criterios de búsqueda avanzada.
-             FR-102: Alternativas relacionadas y correcciones ortográficas cuando una búsqueda no arroje resultados.
              Acta de acuerdos UC-21, versión 1.1.
 
 ### Criterios de aceptación
